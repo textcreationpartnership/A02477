@@ -35,11 +35,69 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Newes out of Powles Churchyarde now newly renued and amplifyed according to the accidents of the pre
+
+1. ❧To the high and Honorable,
+and his especiall good Lorde,
+Lorde Robert Dudley, Earle of Leycester,
+Baron of Denbigh, and Knight of the most
+noble order of the Garter, high Stewarde
+of her Maiesties Burrow of new Windsore,
+Edw, Hake, vndersteward there,
+wisheth dayly preseruation with
+increase of honor to Gods
+glory.
+
+1. To the Gentle Reader.
+
+1. Ad authorem, Ioannes Long
+Londoniensis minister.
+
+1. The same to the Citie
+of London.
+
+1. The Author to the Carping
+and scornefull Sicophant.
+
+1. ❧Ad authorem Ric. Mathaeus,
+Londoniensis minister.
+
+1. The Noueltie of this
+Booke.
+
+1. ¶The Glory of the Honorable, is
+the feare of God.
+
 #####Body#####
-Newes out of Powles Churchyarde now newly renued and amplifyed according to the accidents of the pre
+
+1. The first Satyr.
+
+1. The second Satyr.
+
+1. The thyrde Satyr.
+
+1. The fourth Satyr.
+
+1. The fift Satyr.
+
+1. The syxt Satyr.
+
+1. The seauenth Satyr.
+
+1. The. viii. and last Satyr.
+
+1. The Aucthor vpon the Booke,
+in the defence of the gouernement
+of the Citie.
+
+1. Gentle Reader, for the fillinge
+vp of emptie pages, this letter written
+by the Author to his friende lying at
+the point of death is inserted.
+
 #####Back#####
-Newes out of Powles Churchyarde now newly renued and amplifyed according to the accidents of the pre
+Imprinted at London by John
+Charlewood, and Richard
+Ihones.
 **Types of content**
 
   * There are 2945 **verse** lines!
